@@ -19,6 +19,7 @@
   "homepage": "https://github.com/masamori0083/typescript-for-javascript-developers#readme",
   "dependencies": {
     "save-dev": "0.0.1-security",
+    "ts-node": "^8.10.2",
     "typescript": "^3.9.7"
   }
 }
